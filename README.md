@@ -1,3 +1,6 @@
-Hello this app share for you
+This is Readme file 
+Ben TECHBE
+bu hesapda Devloper uygulamalarını ve kendi yaptıklarımı paylaşacağım
 
-Thanks for download@!
+TECHBE-FİLES'e katılmayı unutmayın!
+TECHBE
